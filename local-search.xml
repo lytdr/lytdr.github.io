@@ -8,7 +8,7 @@
     <link href="/2020/07/29/Github%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%EF%BC%881%EF%BC%89Git%E4%B8%8ESVN/"/>
     <url>/2020/07/29/Github%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%EF%BC%881%EF%BC%89Git%E4%B8%8ESVN/</url>
     
-    <content type="html"><![CDATA[<p><img src="https://ftp.bmp.ovh/imgs/2020/07/8a3c5e4737d68901.png" srcset="/img/loading.gif" alt=""></p><h2 id="什么是Git？Github又是什么？"><a href="#什么是Git？Github又是什么？" class="headerlink" title="什么是Git？Github又是什么？"></a>什么是Git？Github又是什么？</h2><p>Git是一个分布式版本控制系统，而Github是通过Git进行版本控制的软件源代码托管平台。</p><h2 id="Git与SVN有什么区别？"><a href="#Git与SVN有什么区别？" class="headerlink" title="Git与SVN有什么区别？"></a>Git与SVN有什么区别？</h2><p>与SVN不同的是，SVN是集中式版本控制系统，Git是分布式版本控制系统。<br>使用命令行操作Git时，会涉及到很多Linux命令，所以需要了解Linux的基本操作命令。</p><h2 id="我们为什么需要版本控制系统？"><a href="#我们为什么需要版本控制系统？" class="headerlink" title="我们为什么需要版本控制系统？"></a>我们为什么需要版本控制系统？</h2><p>我们在自己或者与团队协作开发项目时，有时需要查看之前修改的内容或者需要回溯到上一个版本，这时就需要版本控制系统的帮助，它能够标识出源代码中发生改变的地方并且能够进行版本回溯。</p><h2 id="参考网站"><a href="#参考网站" class="headerlink" title="参考网站"></a>参考网站</h2><ul><li><a href="https://zh.wikipedia.org/wiki/Git" target="_blank" rel="noopener">https://zh.wikipedia.org/wiki/Git</a></li><li><a href="https://zh.wikipedia.org/wiki/GitHub" target="_blank" rel="noopener">https://zh.wikipedia.org/wiki/GitHub</a></li><li><a href="https://www.runoob.com/git/git-tutorial.html" target="_blank" rel="noopener">https://www.runoob.com/git/git-tutorial.html</a></li><li><a href="https://www.bilibili.com/video/BV1pW411A7a5" target="_blank" rel="noopener">https://www.bilibili.com/video/BV1pW411A7a5</a></li></ul>]]></content>
+    <content type="html"><![CDATA[<h2 id="什么是Git？Github又是什么？"><a href="#什么是Git？Github又是什么？" class="headerlink" title="什么是Git？Github又是什么？"></a>什么是Git？Github又是什么？</h2><p>Git是一个分布式版本控制系统，而Github是通过Git进行版本控制的软件源代码托管平台。</p><h2 id="Git与SVN有什么区别？"><a href="#Git与SVN有什么区别？" class="headerlink" title="Git与SVN有什么区别？"></a>Git与SVN有什么区别？</h2><p>与SVN不同的是，SVN是集中式版本控制系统，Git是分布式版本控制系统。<br>使用命令行操作Git时，会涉及到很多Linux命令，所以需要了解Linux的基本操作命令。</p><h2 id="我们为什么需要版本控制系统？"><a href="#我们为什么需要版本控制系统？" class="headerlink" title="我们为什么需要版本控制系统？"></a>我们为什么需要版本控制系统？</h2><p>我们在自己或者与团队协作开发项目时，有时需要查看之前修改的内容或者需要回溯到上一个版本，这时就需要版本控制系统的帮助，它能够标识出源代码中发生改变的地方并且能够进行版本回溯。</p><h2 id="参考网站"><a href="#参考网站" class="headerlink" title="参考网站"></a>参考网站</h2><ul><li><a href="https://zh.wikipedia.org/wiki/Git" target="_blank" rel="noopener">https://zh.wikipedia.org/wiki/Git</a></li><li><a href="https://zh.wikipedia.org/wiki/GitHub" target="_blank" rel="noopener">https://zh.wikipedia.org/wiki/GitHub</a></li><li><a href="https://www.runoob.com/git/git-tutorial.html" target="_blank" rel="noopener">https://www.runoob.com/git/git-tutorial.html</a></li><li><a href="https://www.bilibili.com/video/BV1pW411A7a5" target="_blank" rel="noopener">https://www.bilibili.com/video/BV1pW411A7a5</a></li></ul>]]></content>
     
     
     <categories>
@@ -23,6 +23,29 @@
       <tag>Git</tag>
       
       <tag>SVN</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>计算机视觉方向考研信息整理</title>
+    <link href="/2020/07/29/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89%E6%96%B9%E5%90%91%E8%80%83%E7%A0%94%E4%BF%A1%E6%81%AF%E6%95%B4%E7%90%86/"/>
+    <url>/2020/07/29/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89%E6%96%B9%E5%90%91%E8%80%83%E7%A0%94%E4%BF%A1%E6%81%AF%E6%95%B4%E7%90%86/</url>
+    
+    <content type="html"><![CDATA[<h2 id="考研须知"><a href="#考研须知" class="headerlink" title="考研须知"></a>考研须知</h2><p>主要包括希望考研的同学必须知道的相关信息。</p><h2 id="计算机视觉方向简要介绍"><a href="#计算机视觉方向简要介绍" class="headerlink" title="计算机视觉方向简要介绍"></a>计算机视觉方向简要介绍</h2><p>简要说明计算机视觉方向研究的主要内容、主要应用和发展前景。</p><h3 id="研究方向"><a href="#研究方向" class="headerlink" title="研究方向"></a>研究方向</h3><h3 id="涉及科目"><a href="#涉及科目" class="headerlink" title="涉及科目"></a>涉及科目</h3><h3 id="主要应用"><a href="#主要应用" class="headerlink" title="主要应用"></a>主要应用</h3><h3 id="交叉学科"><a href="#交叉学科" class="headerlink" title="交叉学科"></a>交叉学科</h3><h3 id="发展前途"><a href="#发展前途" class="headerlink" title="发展前途"></a>发展前途</h3><h2 id="计算机视觉方向考研院校"><a href="#计算机视觉方向考研院校" class="headerlink" title="计算机视觉方向考研院校"></a>计算机视觉方向考研院校</h2>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>计算机视觉</tag>
+      
+      <tag>CV</tag>
+      
+      <tag>考研</tag>
       
     </tags>
     
